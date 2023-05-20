@@ -8,6 +8,9 @@ creating music and any other aspect of game that you can think of.
 In this game, your objective is to dodge on comming traffic that is trying to hit you. You are scored 
 by the distance you travel from the starting point.
 
+# Video Demo
+
+https://youtu.be/oZeWCyPAVqQ
 
 # Development Environment
 
